@@ -54,13 +54,15 @@ Check out the live demo [here](https://digitaluttam.com/dashboard).
 
 2. Install dependencies:
 
-   ```npm install
+   ```bash
+   npm install
 
    ```
 
 3. Start the development server:
 
-   ```npm start
+   ```bash
+   npm start
 
    ```
 
